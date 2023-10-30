@@ -22,7 +22,7 @@ h1,h2,h3 {
   margin: 10px;
   padding: 10px;
   border: solid 1px #888;
-  background-color: #00d9ff;
+  background-color: #ffbb00c0;
   font-family: "fantasy", papyrus;
 }
 
@@ -39,4 +39,10 @@ h1,h2,h3 {
   margin-bottom: 10px;
   border: solid 1px #888;
   background-color: #00578a;
+}
+
+.image {
+  /* margin: 10px; */
+  width: 600px;
+  float: right;
 }
